@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/movie_browser_project/static/css/main.c408f593.chunk.css",
-    "main.js": "/movie_browser_project/static/js/main.cf80d6d4.chunk.js",
-    "main.js.map": "/movie_browser_project/static/js/main.cf80d6d4.chunk.js.map",
-    "runtime-main.js": "/movie_browser_project/static/js/runtime-main.242b26e2.js",
-    "runtime-main.js.map": "/movie_browser_project/static/js/runtime-main.242b26e2.js.map",
-    "static/js/2.8cb68c9a.chunk.js": "/movie_browser_project/static/js/2.8cb68c9a.chunk.js",
-    "static/js/2.8cb68c9a.chunk.js.map": "/movie_browser_project/static/js/2.8cb68c9a.chunk.js.map",
-    "static/js/3.3cc12672.chunk.js": "/movie_browser_project/static/js/3.3cc12672.chunk.js",
-    "static/js/3.3cc12672.chunk.js.map": "/movie_browser_project/static/js/3.3cc12672.chunk.js.map",
-    "index.html": "/movie_browser_project/index.html",
-    "static/css/main.c408f593.chunk.css.map": "/movie_browser_project/static/css/main.c408f593.chunk.css.map",
-    "static/js/2.8cb68c9a.chunk.js.LICENSE.txt": "/movie_browser_project/static/js/2.8cb68c9a.chunk.js.LICENSE.txt"
+    "main.css": "/MovieBrowser/static/css/main.c408f593.chunk.css",
+    "main.js": "/MovieBrowser/static/js/main.cf80d6d4.chunk.js",
+    "main.js.map": "/MovieBrowser/static/js/main.cf80d6d4.chunk.js.map",
+    "runtime-main.js": "/MovieBrowser/static/js/runtime-main.5db87ca9.js",
+    "runtime-main.js.map": "/MovieBrowser/static/js/runtime-main.5db87ca9.js.map",
+    "static/js/2.8cb68c9a.chunk.js": "/MovieBrowser/static/js/2.8cb68c9a.chunk.js",
+    "static/js/2.8cb68c9a.chunk.js.map": "/MovieBrowser/static/js/2.8cb68c9a.chunk.js.map",
+    "static/js/3.3cc12672.chunk.js": "/MovieBrowser/static/js/3.3cc12672.chunk.js",
+    "static/js/3.3cc12672.chunk.js.map": "/MovieBrowser/static/js/3.3cc12672.chunk.js.map",
+    "index.html": "/MovieBrowser/index.html",
+    "static/css/main.c408f593.chunk.css.map": "/MovieBrowser/static/css/main.c408f593.chunk.css.map",
+    "static/js/2.8cb68c9a.chunk.js.LICENSE.txt": "/MovieBrowser/static/js/2.8cb68c9a.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.242b26e2.js",
+    "static/js/runtime-main.5db87ca9.js",
     "static/js/2.8cb68c9a.chunk.js",
     "static/css/main.c408f593.chunk.css",
     "static/js/main.cf80d6d4.chunk.js"
